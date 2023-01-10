@@ -37,7 +37,7 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Turning dirty and unstructured data from different source into ready to use data for analytics and data science",
+        "⚡ Turning dirty and unstructured data from different source into  ready to use data for analytics and data science",
         "⚡ Extract insights and automate intelligent decision-making from business data, and other available sources",
         "⚡ Creating dashboards and visualizations to present data in a clear and understandable way",
         "⚡ Building Machine Learning and Deep Learning models for different use cases",
@@ -501,7 +501,7 @@ const experience = {
           logo_path: "suzlon3.jpg",
           duration: "Sep 2022 - Present",
           location: "Pune, India",
-          description: "Currently working on data science lifecycle automation and failure predictions for WTG components simultaneously. leading the smart workbench project, too. Additionally, developing the necessary abilities. participating in predictive and prescriptive analyses, as well as managing several projects. Using the necessary technologies, core data analysis and data visualisation are performed on the incoming raw data.",
+          description: "Working concurrently on failure predictions for WTG components and data science lifecycle automation. Project Lead for the smart workbench. Data collection based on daily raw data collecting.",
           color: "#0071C5",
         },
        /* {
@@ -543,7 +543,7 @@ const experience = {
           duration: "Jan 2022 - June 2022",
           location: "Work From Home",
           description:
-            "building projects from start to finish using a variety of tools and applications. acquiring knowledge in web scraping, data analysis, and other value-added abilities.(Discontinued while taking full time job.)",
+            "Building projects from start to finish using a variety of tools and applications. acquiring knowledge in web scraping, data analysis, and other value-added abilities.(Discontinued while taking full time job.)",
           color: "#4285F4",
         },
         {
@@ -554,10 +554,11 @@ const experience = {
           duration: "Mar 2021 - July 2021",
           location: "Work From Home",
           description: 
-            `Projects: 1) Health Insurance Fraud Detection
-                       2)Topic Modeling,`,
-                       
-           color: "#4285F4",
+                     "1) Health Insurance Fraud Detection 2)Topic Modeling.",
+                  
+     
+                     
+                       color: "#4285F4",
         },
         {
           title: "Internship Trainee",  
