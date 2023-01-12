@@ -1,15 +1,5 @@
 # Portfolio Website
 
-<p align="center">
-  <img src="/media/portfolio1.gif")
-</p>
-
-## How to Use 
-
-- Clone this repository 
-- Run `npm i`
-- Check it out using `npm start`
-
 ## Resources Used 🛠️
 
 - [React](https://reactjs.org/)
@@ -23,7 +13,4 @@
 
 - [UnDraw](https://undraw.co/illustrations)
 
-## References
 
-Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
-Illustrations: https://undraw.co/
